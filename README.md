@@ -23,4 +23,5 @@ Une mini-application web permettant d'explorer une liste de films à l'aide de f
 1. Téléchargez ou clonez le dépôt :
    ```bash
    git clone https://github.com/saidimohamed1989/movie-explorer.git
+https://saidimohamed1989.github.io/movie-explorer/
 
